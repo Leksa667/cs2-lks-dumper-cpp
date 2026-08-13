@@ -1,5 +1,7 @@
 # cs2-lks-dumper
 
+
+
 A C++ memory dumper for Counter-Strike 2 that extracts offsets, interfaces, buttons, and Source 2 schemas from the running `cs2.exe` process, and exports them in multiple programming language formats.
 
 **Author: [Leksa667](https://github.com/Leksa667)**
