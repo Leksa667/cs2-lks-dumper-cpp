@@ -25,6 +25,8 @@ This project is a C++ port / adaptation of the Rust-based [a2x/cs2-dumper](https
   - `zig` — Zig
 - **Metadata export** — writes `info.json` with build number and timestamp
 
+
+
 ## Requirements
 
 - Windows 10 / 11
